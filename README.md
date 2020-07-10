@@ -6,7 +6,8 @@ A new Flutter application.
 - WebView Flutter
 
 # Design 
-![QuikSleep For a full night's rest](https://user-images.githubusercontent.com/60022292/87144257-c04fbe80-c2a7-11ea-9b43-132534a8007f.gif)
+![QuikSleep For a full night's rest (2)](https://user-images.githubusercontent.com/60022292/87145757-1aea1a00-c2aa-11ea-9ac0-0f13ad2dd9fc.gif)
+
 
 
 
